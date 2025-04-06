@@ -30,7 +30,7 @@
           >
             <div class="bg-[#CAD1E9]/10 p-6 rounded-xl">
               <div class="w-fit flex items-center gap-4 text-white">
-                <img src="/assets/images/imgIcons/phone.png" alt="" class="size-11 rounded-full">
+                <img src="@/assets/images/imgIcons/phone.png" alt="" class="size-11 rounded-full">
                 <div class="text-start w-fit">
                   <h2>David J. Karem</h2>
                   <p>Businessmen 1 day ago</p>

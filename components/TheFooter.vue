@@ -88,15 +88,13 @@
 </template>
 
 <script setup lang="ts">
-import one from  '@/assets/images/imgIcons/Community icon-1.png'
-import two from  '@/assets/images/imgIcons/Community icon-2.png'
-import three from  '@/assets/images/imgIcons/Community icon-3.png'
-import four from  '@/assets/images/imgIcons/Community icon.png'
+import one from  '@/assets/images/imgIcons/Community icon1.png'
+import two from  '@/assets/images/imgIcons/Community icon2.png'
+import three from  '@/assets/images/imgIcons/Community icon3.png'
 const socialIcons = [
   { src:one , name: 'Twitter' },
   { src: two, name: 'Facebook' },
   { src: three, name: 'LinkedIn' },
-  { src: four, name: 'Discord' }
 ]
 
 const scrollToTop = () => {

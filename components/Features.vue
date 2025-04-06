@@ -100,7 +100,7 @@
   
   
   
-              <img src="/assets/images/imgIcons/three_.png" alt="Img_icons" class=" md:w-fit shrink-0  md:h-fit  w-full h-full">
+              <img src="/assets/images/imgIcons/three (2).png" alt="Img_icons" class=" md:w-fit shrink-0  md:h-fit  w-full h-full">
           </div>
         <div class="  p-10 relative  bg-gradient-to-t from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center to-primary-500/5 w-full  backdrop-blur-sm">
             <div class=" flex  items-start ">
