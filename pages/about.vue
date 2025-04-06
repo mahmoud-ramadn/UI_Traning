@@ -4,6 +4,8 @@
     <services/>
     <features/>
      <priceing/>
+     <testimonials/>
+     <be-part-of-the-future/>
    </div>
 </template>
 
