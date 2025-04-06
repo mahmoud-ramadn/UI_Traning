@@ -30,7 +30,7 @@
         <span class=" size-60  shrink-0 bg-gradient-to-br from-[#090EDB]/30 absolute  right-0  bottom-0 to-[#8D1EA2]/20 shadow-2xl blur-3xl backdrop:blur-md rounded-full">
 
        </span>
-        <div class="  p-10 relative  bg-gradient-to-t  from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center  to-primary-500/5 w-full  backdrop-blur-sm">
+        <div class="  md:p-10 p-5 relative  bg-gradient-to-t  from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center  to-primary-500/5 w-full  backdrop-blur-sm">
             <div class=" flex  items-start ">
                   <span class=" size-10 bg-blue-100 rounded-full   self-start md:mr-5 mr-2 relative flex items-center justify-center  shrink-0 after:h-[400px] z-40 after:w-[3px]  
             after:-z-40 after:bg-blue-100 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:top-0 after:bottom-0 after:rounded-full    after:shadow-lg
@@ -66,7 +66,7 @@
             
             <img src="/assets/images/imgIcons/Group 2.png" alt="Img_icons" class=" md:w-fit shrink-0  md:h-fit  w-full h-full">
           </div>
-          <div class="  p-10 relative  bg-gradient-to-t from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center to-primary-500/5 w-full  backdrop-blur-sm">
+          <div class="  md:p-10 p-5 relative  bg-gradient-to-t from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center to-primary-500/5 w-full  backdrop-blur-sm">
               <div class=" flex  items-start ">
                     <span class=" size-10 bg-green-100 rounded-full   self-start md:mr-5 mr-2 relative flex items-center justify-center  shrink-0 after:h-[400px] z-40 after:w-[3px]  
               after:-z-40 after:bg-green-100 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:top-0 after:bottom-0 after:rounded-full    after:shadow-lg
@@ -102,7 +102,7 @@
   
               <img src="/assets/images/imgIcons/three (2).png" alt="Img_icons" class=" md:w-fit shrink-0  md:h-fit  w-full h-full">
           </div>
-        <div class="  p-10 relative  bg-gradient-to-t from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center to-primary-500/5 w-full  backdrop-blur-sm">
+        <div class="  md:p-10 p-5 relative  bg-gradient-to-t from-primary-600/5 border border-gray-600/30  rounded-xl hover:border-indigo-400/50 hover:shadow-lg z-[3] hover:shadow-purple-500/20 after:z-[2] transition-all duration-300 flex   gap-y-10  lg:flex-row  flex-col  items-center to-primary-500/5 w-full  backdrop-blur-sm">
             <div class=" flex  items-start ">
                   <span class=" size-10  bg-purple-100 rounded-full   self-start md:mr-5 mr-2 relative flex items-center justify-center  shrink-0 after:h-[400px] z-40 after:w-[3px]  
             after:-z-40 after:bg-purple-100 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:top-0 after:bottom-0 after:rounded-full    after:shadow-lg

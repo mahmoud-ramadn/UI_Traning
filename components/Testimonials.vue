@@ -26,9 +26,9 @@
           <swiper-slide
             v-for="(slide, idx) in [1,2,3]"
             :key="idx"
-            class="bg-gradient-to-br from-primary-600 to-[#53546C] text-center p-10 rounded-xl"
+            class="bg-gradient-to-br from-primary-600 to-[#53546C] text-center md:p-10 p-5 rounded-xl"
           >
-            <div class="bg-[#CAD1E9]/10 p-6 rounded-xl">
+            <div class="bg-[#CAD1E9]/10 md:p-6 p-3 rounded-xl">
               <div class="w-fit flex items-center gap-4 text-white">
                 <img src="@/assets/images/imgIcons/phone.png" alt="" class="size-11 rounded-full">
                 <div class="text-start w-fit">

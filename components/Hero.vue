@@ -74,7 +74,7 @@
           </button>
           
           <h1
-            class="bg-identity-gradient font-bold md:text-6xl text-4xl bg-clip-text text-transparent leading-tight md:leading-normal"
+            class="bg-identity-gradient font-bold md:text-6xl  md:px-0 px-5 text-4xl bg-clip-text text-transparent leading-tight md:leading-normal"
           >
             Identity-hub: Next-gen Privacy Protection
           </h1>
@@ -85,14 +85,15 @@
           
           <div>
             <button
-              class="group relative  rounded-2xl px-0.5    py-3.5  text-sm font-medium bg-gradient-to-br from-[#090EDB] to-[#8D1EA2] hover:from-[#8D1EA2] hover:to-[#090EDB] transition-all duration-300"
+              class="group relative  rounded-2xl px-0.5   overflow-hidden  py-3.5  text-sm font-medium bg-gradient-to-br from-[#090EDB] to-[#8D1EA2] hover:from-[#8D1EA2] hover:to-[#090EDB] transition-all duration-300"
             >
               <span
-                class="relative px-5   py-3  rounded-full transition-all ease-in  duration-300 bg-primary-500/90 hover:bg-primary-600/90 text-white font-medium"
+                class="relative px-5   py-3  rounded-2xl    transition-all ease-in  duration-300 bg-primary-500/90 hover:bg-primary-600/90 text-white font-medium"
               >
                 Get Started
               </span>
             </button>
+
             <button
               class="group   rounded-2xl mx-5  py-3 p-0.5   text-sm font-medium bg-gradient-to-br from-transparent to-transparent border border-indigo-400 hover:from-[#090EDB]/20 hover:to-[#8D1EA2]/20 transition-all duration-300"
             >
@@ -125,7 +126,7 @@
               </div>
             </div>
             
-            <div class="flex flex-col items-center md:gap-y-[270px] gap-5 z-30">
+            <div class="flex flex-col items-center md:gap-y-[270px] gap-5 z-30 ">
               <div 
                 v-for="(item, index) in contactCards.slice(2, 4)" 
                 :key="index"
@@ -137,6 +138,7 @@
                   <p class="font-medium text-white md:text-base text-sm">{{ item.value }}</p>
                 </div>
               </div>
+
             </div>
           </div>
         </div>

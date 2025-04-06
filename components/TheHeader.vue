@@ -64,7 +64,7 @@
         <div class="p-6 h-full flex flex-col">
           <!-- Close Button -->
           <div class="flex justify-end mb-8">
-            <button @click="toggleMenu" class="text-white text-2xl">
+            <button @click="toggleMenu" class=" text-2xl text-transparent">
               &times;
             </button>
           </div>
