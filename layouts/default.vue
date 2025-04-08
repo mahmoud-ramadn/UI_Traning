@@ -1,10 +1,10 @@
 <template>
-    <div class=" container">
-    <h1>header</h1>
-    <main >
+    <div class=" bg-wheat-100    min-h-[200vh]  relative    pt-5 px-4 ">
+    <Home-run-the-header/>
+    <main class=" container  bg-wheat-200  pb-10  mt-3 rounded-3xl overflow-hidden "  >
     <slot />
-    </main>
-    <h1>footer</h1>
+</main>
+<Home-run-the-footer/>
     </div>
 </template>
 

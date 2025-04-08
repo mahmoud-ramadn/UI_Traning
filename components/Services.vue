@@ -33,7 +33,7 @@
       <div
         v-for="(itme, index) in CardsData"
         :key="index"
-        class="clip rounded-xl bg-gradient-to-br from-[#090EDB] to-[#8D1EA2] p-0.5 overflow-hidden text-white"
+        class="clip rounded-xl  bg-gradient-to-br from-[#090EDB] to-[#8D1EA2] p-0.5  text-white"
       >
         <div
           class="bg-primary-500/90 w-full h-full rounded-xl relative p-8 flex justify-between flex-col"
