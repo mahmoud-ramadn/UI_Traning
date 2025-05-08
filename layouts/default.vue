@@ -1,7 +1,7 @@
 <template>
-    <div class=" bg-wheat-100    min-h-[200vh]  relative    pt-5  ">
+    <div class=" bg-wheat-100       ">
     <Home-run-the-header/>
-    <main class=" container  bg-wheat-200  pb-10  mt-3 rounded-3xl overflow-hidden "  >
+    <main class=" container  bg-wheat-200  pb-10   rounded-3xl overflow-hidden "  >
     <slot />
 </main>
 <Home-run-the-footer/>

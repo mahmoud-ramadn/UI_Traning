@@ -1,5 +1,5 @@
 <template>
-  <div class="pt-36 md:px-24">
+  <div class=" md:px-24 pt-36">
     <div class="max-w-[900px] mx-auto md:py-10 py-3 md:px-32">
       <h1 class="font-extrabold md:text-8xl text-7xl text-brown-100 text-center relative">
         <span class="float-left">

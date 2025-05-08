@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-[985px]  bg-white py-4 px-5 mx-auto z-30 relative rounded-full flex justify-between items-center shadow-md">
+  <div class="max-w-[985px] fixed   bg-white py-4 px-5 mx-auto z-30 left-1/2 -translate-x-1/2 w-full top-2  rounded-full flex justify-between items-center shadow-md">
     <img src="@/assets/images/homeRunlogo.png" alt="home_run">
     
     <!-- Desktop Navigation -->
